@@ -13,9 +13,8 @@ namespace HelloWorld
             Console.WriteLine("Hellow World");
             Console.WriteLine("Change 2");
             Console.WriteLine("Testing Pull Request");
-            Console.WriteLine("Testing Pull Request");
-
-            Console.ReadKey();
+	    Console.WriteLine("Change 3");
+	    Console.ReadKey();
         }
     }
 }
