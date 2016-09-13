@@ -6,6 +6,7 @@ namespace HelloWorld
     {
         DateTimeOffset ShipDate { get; set; }
         IAddress ShipperAddress { get; set; }
+        String ServiceDescription { get; set; }
 
     }
 }
