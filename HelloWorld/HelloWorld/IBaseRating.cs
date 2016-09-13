@@ -10,5 +10,6 @@ namespace HelloWorld
     {
          int HasDiscount(IRatingDescriptor descriptor);
          int IsShipmentPriced(IBaseRating rating);
+         int IsOnServerNotClient();
     }
 }
